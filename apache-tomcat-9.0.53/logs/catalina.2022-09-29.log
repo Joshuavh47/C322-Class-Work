@@ -1,0 +1,22 @@
+29-Sep-2022 19:29:51.639 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-21839"]
+29-Sep-2022 19:29:51.655 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [315] milliseconds
+29-Sep-2022 19:29:51.660 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-Sep-2022 19:29:51.660 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.53]
+29-Sep-2022 19:29:51.676 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/ROOT]
+29-Sep-2022 19:29:51.815 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/ROOT] has finished in [139] ms
+29-Sep-2022 19:29:51.815 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/docs]
+29-Sep-2022 19:29:51.829 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/docs] has finished in [14] ms
+29-Sep-2022 19:29:51.829 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/examples]
+29-Sep-2022 19:29:52.014 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/examples] has finished in [185] ms
+29-Sep-2022 19:29:52.014 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/host-manager]
+29-Sep-2022 19:29:52.031 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/host-manager] has finished in [17] ms
+29-Sep-2022 19:29:52.031 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/manager]
+29-Sep-2022 19:29:52.045 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/manager] has finished in [14] ms
+29-Sep-2022 19:29:52.045 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/squash]
+29-Sep-2022 19:29:52.066 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/squash] has finished in [20] ms
+29-Sep-2022 19:29:52.066 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/popcorn]
+29-Sep-2022 19:29:52.083 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/popcorn] has finished in [17] ms
+29-Sep-2022 19:29:52.083 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/qotd]
+29-Sep-2022 19:29:52.114 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/jeeres/c322-workspace/apache-tomcat-9.0.53/webapps/qotd] has finished in [31] ms
+29-Sep-2022 19:29:52.118 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-21839"]
+29-Sep-2022 19:29:52.123 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [467] milliseconds
