@@ -33,7 +33,7 @@ class SingletonExtended extends Singleton {
 
 }
 
-//Here, two Singleton and SingletonExtended objects are made and compared to prove that the resulting objects arte the same.
+//Here, two Singleton and SingletonExtended objects are made and compared to prove that the resulting objects are the same.
 
 class TestSingletonExtended {
     public static void main(String[] args){
